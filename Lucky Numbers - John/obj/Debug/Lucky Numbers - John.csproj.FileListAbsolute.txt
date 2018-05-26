@@ -1,0 +1,7 @@
+C:\Users\WeCanCodeIT\source\repos\Lucky Numbers - John\Lucky Numbers - John\bin\Debug\Lucky Numbers - John.exe.config
+C:\Users\WeCanCodeIT\source\repos\Lucky Numbers - John\Lucky Numbers - John\bin\Debug\Lucky Numbers - John.exe
+C:\Users\WeCanCodeIT\source\repos\Lucky Numbers - John\Lucky Numbers - John\bin\Debug\Lucky Numbers - John.pdb
+C:\Users\WeCanCodeIT\source\repos\Lucky Numbers - John\Lucky Numbers - John\obj\Debug\Lucky Numbers - John.csprojAssemblyReference.cache
+C:\Users\WeCanCodeIT\source\repos\Lucky Numbers - John\Lucky Numbers - John\obj\Debug\Lucky Numbers - John.csproj.CoreCompileInputs.cache
+C:\Users\WeCanCodeIT\source\repos\Lucky Numbers - John\Lucky Numbers - John\obj\Debug\Lucky Numbers - John.exe
+C:\Users\WeCanCodeIT\source\repos\Lucky Numbers - John\Lucky Numbers - John\obj\Debug\Lucky Numbers - John.pdb
